@@ -1,21 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abdihakiim gedi mohamed</h1>
-<h3 align="center">A junior developer in somalia</h3>
+<h1 align="center">👋 Hello, I'm Abdihakiin Ged Mohamed</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdihakiingedi" alt="abdihakiingedi" /></a> </p>
-
-- 🌱 I’m currently learning **Languages like Java**
-
-- 💬 Ask me about **Html Css Basic js Middle level C# and Midle level java**
-
-- 📫 How to reach me **cabdixakiincumar43@gmail.com**
-
-- 📄 Know about my experiences [1 year](1 year)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  💻 Junior Developer | Systems & Websites | Passionate about building smart and scalable software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdihakiingedi&show_icons=true&locale=en" alt="abdihakiingedi" /></p>
+## 💡 About Me
+
+- 🎓 I'm a junior full-stack developer focused on **system design** and **web development**.
+- 🧠 I love building projects with clean architecture and real-world functionality.
+- 💼 Open to collaboration on any full-stack or backend project.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`HTML` `CSS` `JavaScript` `Java` `Python` `C#`
+
+### ⚙️ Frameworks & Libraries
+`React` `Tailwind CSS` `Bootstrap` `Django`
+
+### 🔙 Backend
+`Spring Boot` `Django`
+
+### 🗃️ Databases
+`MySQL` `PostgreSQL` `SQL`
+
+### 🔧 Tools
+`IntelliJ IDEA` `VS Code` `PyCharm` `Git` `GitHub`
+
+---
+
+## 🚀 Projects
+
+Check out my projects in the repository list below 👇  
+🔗 [My GitHub Repositories](https://github.com/AbdihakiimGedi?tab=repositories)
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: **Cabdixakiincumar43@gmail.com**
+- 💬 Facebook: [Updyhakiim](https://facebook.com/Updyhakiim)
+
+---
+
+<p align="center">
+  🔥 Always learning. Always building. Let's code something amazing!
+</p>
