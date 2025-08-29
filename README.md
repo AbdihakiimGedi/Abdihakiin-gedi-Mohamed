@@ -20,10 +20,10 @@
 `HTML` `CSS` `JavaScript` `Java` `Python` `C#`
 
 ### ⚙️ Frameworks & Libraries
-`React` `Tailwind CSS` `Bootstrap` `Django`
+`React` `Tailwind CSS` `Bootstrap` `Flask` `Node.js`
 
 ### 🔙 Backend
-`Spring Boot` `Django`
+`Flask` `Node.js` `Spring Boot`
 
 ### 🗃️ Databases
 `MySQL` `PostgreSQL` `SQL`
